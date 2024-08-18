@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|c:\\users\\tieuk\\onedrive\\desktop\\spiritual child\\laptrinhdesktop\\hotelmanagement\\hotelmanagement\\allusercontrol\\uc_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\uc_customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\uc_customerdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\uc_customerdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_newroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_newroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_newroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_newroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_newroom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_newroom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_newroom.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_newroom.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_customerregistration.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_customerregistration.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\allusercontrol\\uc_customerregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\allusercontrol\\uc_customerregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\hotelmanagement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E5CF31-879B-42BF-9E58-6B08D8DF31D3}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_CheckOut.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CheckOut.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_CheckOut.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CheckOut.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_CheckOut.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:46:59.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\DashBoard.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\DashBoard.cs",
+              "RelativeToolTip": "HotelManagement\\DashBoard.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:55:05.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_Staff.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_Staff.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_Staff.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:49:59.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Staff.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_Staff.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_Staff.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_Staff.cs",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_Staff.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA5wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:19:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_CustomerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\UC_CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\UC_CustomerDetails.cs",
+              "RelativeToolTip": "HotelManagement\\UC_CustomerDetails.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:24:55.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\DashBoard.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\DashBoard.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T01:39:33.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_CustomerDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\UC_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\UC_CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\UC_CustomerDetails.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\UC_CustomerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:08:59.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_CheckOut.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CheckOut.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_CheckOut.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CheckOut.cs",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_CheckOut.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwB0AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:18:59.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_CustomerDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\UC_CustomerDetails.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\UC_CustomerDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\UC_CustomerDetails.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\UC_CustomerDetails.Designer.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAtwEUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:26:45.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_CustomerRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CustomerRegistration.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_CustomerRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:24:35.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_CustomerRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CustomerRegistration.cs",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_CustomerRegistration.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAADwv24AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:44:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\function.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\function.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\function.cs",
+              "RelativeToolTip": "HotelManagement\\function.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T16:42:20.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_NewRoom.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_NewRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_NewRoom.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_NewRoom.cs",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_NewRoom.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:46:39.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_NewRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_NewRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_NewRoom.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_NewRoom.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_NewRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:24:15.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\Form1.cs",
+              "RelativeToolTip": "HotelManagement\\Form1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:37:42.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\Form1.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:24:27.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_NewRoom.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_NewRoom.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_NewRoom.Designer.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_NewRoom.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_NewRoom.Designer.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAtwBgBAACxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:37:22.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashBoard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\DashBoard.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\DashBoard.Designer.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\DashBoard.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\DashBoard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:57:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashBoard.resx",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\DashBoard.resx",
+              "RelativeDocumentMoniker": "HotelManagement\\DashBoard.resx",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\DashBoard.resx",
+              "RelativeToolTip": "HotelManagement\\DashBoard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-17T13:57:49.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_NewRoom.resx",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_NewRoom.resx",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_NewRoom.resx",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_NewRoom.resx",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_NewRoom.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-16T17:37:25.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\Program.cs",
+              "RelativeToolTip": "HotelManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:57:59.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_CustomerRegistration.resx",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CustomerRegistration.resx",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_CustomerRegistration.resx",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CustomerRegistration.resx",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_CustomerRegistration.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-17T13:58:05.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UC_CustomerRegistration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CustomerRegistration.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\AllUserControl\\UC_CustomerRegistration.Designer.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\AllUserControl\\UC_CustomerRegistration.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\AllUserControl\\UC_CustomerRegistration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:58:03.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tieuk\\OneDrive\\Desktop\\Spiritual child\\LapTrinhDesktop\\HotelManagement\\HotelManagement\\Form1.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\Form1.Designer.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAO0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:36:50.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
